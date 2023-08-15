@@ -3,4 +3,4 @@
  - Enter the bill Amount
  - Enter the tip Amount
  
- The total bill Amount will be calculated, coverung all the edge case like only numeric values are acceptable etc.
+ The total bill Amount will be calculated, covering all the edge case like only numeric values are acceptable etc.
